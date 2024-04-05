@@ -1,13 +1,21 @@
-  
+<h1 align="center">Welcome here 👋</h1>
+<h3 align="center">Creative ✨ Heartist ✨ Dev </h3>
+
 ✨ My name is Mahault  
-🌍 I am a Front-End Developer based in France  
-💜 Creative, Heartist, Dev 
+🌍 I am a Front-End Developer based in France
 
-#### My Tech Stack   🔹   React / Javascript / HTML / CSS
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)  
 
-#### You can find me here too :
-[<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mahault-andria/)
+<h3 align="left">My Tech Stack</h3>
+<p>React / Javascript / HTML / CSS</p>
+<a href="">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="My Skills">
+</a>
+
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/mahault-andria/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30">
+</a>
 
 
 <!--
