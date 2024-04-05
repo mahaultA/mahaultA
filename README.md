@@ -1,8 +1,9 @@
 <h1 align="center">Welcome here 👋</h1>
 <h3 align="center">Creative ✨ Heartist ✨ Dev </h3>
 
-✨ My name is Mahault  
-🌍 I am a Front-End Developer based in France
+✨ My name is Mahault    
+🌍 I'm a Front-End Developer based in France  
+🎶 Artist by nature [ 💃 x 🎹 x 🎤 ], drawn by beauty and the delights it offers
 
 
 <h3 align="left">My Tech Stack</h3>
