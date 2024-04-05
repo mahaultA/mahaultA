@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋  
+
+✨ I'm Mahault  
+✨ Creative, Heartist, Dev 
+
+#### My Tech Stack :
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)  
+
+
+#### You can find me here too :
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahault-andria/)  
 
 <!--
 **mahaultA/mahaultA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
