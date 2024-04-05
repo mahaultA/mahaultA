@@ -5,6 +5,7 @@
 💜 Creative, Heartist, Dev 
 
 #### My Tech Stack :
+React / Javascript / HTML / CSS
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)  
 
 
