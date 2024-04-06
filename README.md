@@ -8,9 +8,8 @@
 
 <h3 align="left">My Tech Stack</h3>
 <p>React / Javascript / HTML / CSS</p>
-<a href="">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="My Skills">
-</a>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" alt="My Skills">
+
 
 
 <h3 align="left">Connect with me:</h3>
